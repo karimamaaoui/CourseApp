@@ -13,6 +13,7 @@
 		1C400FE32BC4BB08003F63BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C400FE22BC4BB08003F63BE /* Assets.xcassets */; };
 		1C400FE62BC4BB08003F63BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C400FE52BC4BB08003F63BE /* Preview Assets.xcassets */; };
 		1C400FE92BC4BB08003F63BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C400FE72BC4BB08003F63BE /* LaunchScreen.storyboard */; };
+		1C400FF12BC4C654003F63BE /* CourseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C400FF02BC4C654003F63BE /* CourseModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1C400FE52BC4BB08003F63BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1C400FE82BC4BB08003F63BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C400FEA2BC4BB08003F63BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C400FF02BC4C654003F63BE /* CourseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1C400FDC2BC4BB07003F63BE /* AppDelegate.swift */,
 				1C400FDE2BC4BB07003F63BE /* SceneDelegate.swift */,
 				1C400FE02BC4BB07003F63BE /* ContentView.swift */,
+				1C400FF02BC4C654003F63BE /* CourseModel.swift */,
 				1C400FE22BC4BB08003F63BE /* Assets.xcassets */,
 				1C400FE72BC4BB08003F63BE /* LaunchScreen.storyboard */,
 				1C400FEA2BC4BB08003F63BE /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				1C400FDD2BC4BB07003F63BE /* AppDelegate.swift in Sources */,
 				1C400FDF2BC4BB07003F63BE /* SceneDelegate.swift in Sources */,
+				1C400FF12BC4C654003F63BE /* CourseModel.swift in Sources */,
 				1C400FE12BC4BB07003F63BE /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
